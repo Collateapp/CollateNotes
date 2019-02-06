@@ -1,8 +1,8 @@
 # Collate Notes
 
-This application is not actively maintained anymore. You are welcome to fork it and create your own note taking application.
+# This application is not actively maintained anymore.
 
-Licensed under MIT, so have at it.
+You are welcome to fork it and create your own note taking application. Licensed under MIT, so have at it.
 
 # Quickstart
 
