@@ -1,8 +1,12 @@
 # Collate Notes
 
-# This application is not actively maintained anymore.
+**This application is not actively maintained anymore.**
 
 You are welcome to fork it and create your own note taking application. Licensed under MIT, so have at it.
+
+# Download
+
+[Download the final release of Collate](https://github.com/Collateapp/CollateNotes/releases/tag/4.0.0)
 
 # Quickstart
 
